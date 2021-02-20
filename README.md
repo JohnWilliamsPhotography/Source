@@ -1,2 +1,2 @@
-# Source
-Find all the source code and readme file for the website Johnwilliams.studio here.
+# README.MD
+Find all the source code, copyright and navigation instructions for the website Johnwilliams.studio
