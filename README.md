@@ -1,2 +1,5 @@
-# README.MD
-Find all the source code, copyright and navigation instructions for the website Johnwilliams.studio in here
+# JOHN WILLIAMS PHOTOGRAPHY
+This site's readme file contains:
+*Sources
+*Copyrights
+*Navigation instructions
